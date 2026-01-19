@@ -20,7 +20,7 @@ import tempfile
 from pathlib import Path
 
 # Default paths
-DEFAULT_WALLPAPER_PATH = Path.home() / '.local' / 'share' / 'wallpapers' / 'vaporwave_goals.png'
+DEFAULT_WALLPAPER_PATH = Path.home() / '.local' / 'share' / 'wallpapers' / 'goals_wallpaper.png'
 PROJECT_ROOT = Path(__file__).parent.parent
 
 
