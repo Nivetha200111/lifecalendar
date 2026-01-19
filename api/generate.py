@@ -1,5 +1,5 @@
 """
-Vercel serverless function for generating vaporwave wallpapers.
+Vercel serverless function for generating minimalist wallpapers.
 Returns a PNG image based on goals.json configuration.
 """
 
